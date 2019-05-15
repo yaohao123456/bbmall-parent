@@ -13,8 +13,6 @@ package cn.itsource.bbmall.config;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import springfox.documentation.builders.ApiInfoBuilder;
-import springfox.documentation.builders.PathSelectors;
-import springfox.documentation.builders.RequestHandlerSelectors;
 import springfox.documentation.service.ApiInfo;
 import springfox.documentation.service.Contact;
 import springfox.documentation.spi.DocumentationType;
@@ -28,19 +26,14 @@ public class Swagger2 {
     @Bean
     public Docket createRestApi() {
         return new Docket(DocumentationType.SWAGGER_2)
-                .apiInfo(apiInfo())
-                .select()
-                .apis(RequestHandlerSelectors.basePackage("cn.itsource.bbmall.controller"))
-                .paths(PathSelectors.any())
-                .build();
+                .apiInfo(apiInfo());
     }
-
 
     private ApiInfo apiInfo() {
         return new ApiInfoBuilder()
-                .title("平台服务api")
-                .description("平台服务接口文档说明")
-                .contact(new Contact("yh", "", " yaohao@itsource.cn"))
+                .title("分布式购物系统")
+                .description("购物系统接口文档说明")
+                .contact(new Contact("yh", "", "yaohao@itsoruce.cn"))
                 .version("1.0")
                 .build();
     }

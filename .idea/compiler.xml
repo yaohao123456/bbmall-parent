@@ -17,7 +17,6 @@
     <bytecodeTargetLevel>
       <module name="basic-util" target="1.8" />
       <module name="bbmall-basic-parent" target="1.8" />
-      <module name="bbmall-config" target="1.8" />
       <module name="bbmall-config-server" target="1.8" />
       <module name="bbmall-eureka-server" target="1.8" />
       <module name="bbmall-parent" target="1.8" />

@@ -16,12 +16,13 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 @EnableSwagger2
 public class Swagger2 {
 
+
     @Bean
     public Docket createRestApi() {
         return new Docket(DocumentationType.SWAGGER_2)
                 .apiInfo(apiInfo())
                 .select()
-                .apis(RequestHandlerSelectors.basePackage("cn.itsource.bbmall.controller"))
+                .apis(RequestHandlerSelectors.basePackage("cn.itsource.aigou.controller"))
                 .paths(PathSelectors.any())
                 .build();
     }
@@ -35,4 +36,5 @@ public class Swagger2 {
                 .version("1.0")
                 .build();
     }
+
 }

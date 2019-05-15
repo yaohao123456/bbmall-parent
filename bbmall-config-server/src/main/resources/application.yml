@@ -18,6 +18,7 @@ spring:
         #native:
           #search-locations: E:/program/github/bbmall-config #本地配置所在的目录
         git:
-          uri: https://github.com/yaohao/bbmall-config.git
-          username: yaohao
-          password: yaohao123456
+          #https://github.com/yaohao/bbmall-config.git
+          uri: https://github.com/yaohao123456/bbmall-config.git
+          username: yaohao123456
+          password: QWERqwer110
