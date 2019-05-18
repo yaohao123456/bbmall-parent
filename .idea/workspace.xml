@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="adc184c9-0178-497c-b734-1a00b6b08a98" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_generate_3_1_1.xml" afterPath="" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-product-parent/product-service/src/main/resources/cn.itsource.bbmall.mapper/BrandMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-product-parent/product-service/src/main/resources/cn.itsource.bbmall.mapper/ProductMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-product-parent/product-service/src/main/resources/cn.itsource.bbmall.mapper/ProductTypeMapper.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/bbmall-zuul-gateway/target/" />
@@ -30,6 +33,20 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="bbmall-parent" />
   </component>
@@ -45,31 +62,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="controller.java.vm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bbmall-basic-parent/basic-generator/src/main/resources/templates/controller.java.vm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bbmall-product-parent/product-interface/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="319">
               <caret line="35" column="43" lean-forward="false" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bbmall-basic-parent/basic-core/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -143,7 +140,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MybatisPlusConfig.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MybatisPlusConfig.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bbmall-product-parent/product-service/src/main/java/cn/itsource/bbmall/config/MybatisPlusConfig.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="184">
@@ -153,6 +150,26 @@
                 <element signature="e#456#457#0" expanded="true" />
                 <element signature="e#506#507#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bbmall-product-parent/product-service/src/main/resources/cn.itsource.bbmall.mapper/ProductMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="5" column="58" lean-forward="false" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductTypeMapper.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bbmall-product-parent/product-service/src/main/resources/cn.itsource.bbmall.mapper/ProductTypeMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="5" column="58" lean-forward="false" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -232,6 +249,9 @@
         <option value="$PROJECT_DIR$/bbmall-product-parent/product-service/src/main/java/cn/itsource/bbmall/controller/ProductController.java" />
         <option value="$PROJECT_DIR$/bbmall-product-parent/product-service/src/main/java/cn/itsource/bbmall/controller/ProductTypeController.java" />
         <option value="$PROJECT_DIR$/bbmall-product-parent/product-service/src/main/java/cn/itsource/bbmall/config/MybatisPlusConfig.java" />
+        <option value="$PROJECT_DIR$/bbmall-product-parent/product-service/src/main/resources/cn.itsource.bbmall.mapper/BrandMapper.xml" />
+        <option value="$PROJECT_DIR$/bbmall-product-parent/product-service/src/main/resources/cn.itsource.bbmall.mapper/ProductMapper.xml" />
+        <option value="$PROJECT_DIR$/bbmall-product-parent/product-service/src/main/resources/cn.itsource.bbmall.mapper/ProductTypeMapper.xml" />
       </list>
     </option>
   </component>
@@ -371,6 +391,16 @@
             <path>
               <item name="bbmall-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="bbmall-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bbmall-product-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="cn.itsource.bbmall.mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bbmall-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bbmall-parent" type="462c0819:PsiDirectoryNode" />
               <item name="bbmall-zuul-gateway" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -435,14 +465,15 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\software\idea\IntelliJ IDEA 2017.3.3\workspace\bbmall-parent\bbmall-product-parent\product-service\src\main\resources\cn.itsource.bbmall.mapper" />
       <recent name="G:\software\idea\IntelliJ IDEA 2017.3.3\workspace\bbmall-parent\bbmall-product-parent\product-service\src\main\java\cn\itsource\bbmall\controller" />
       <recent name="G:\software\idea\IntelliJ IDEA 2017.3.3\workspace\bbmall-parent\bbmall-basic-parent\basic-generator\src\main\java\cn\itsource\generator" />
       <recent name="G:\software\idea\IntelliJ IDEA 2017.3.3\workspace\bbmall-parent\bbmall-basic-parent\basic-generator\src\main\resources" />
       <recent name="G:\software\idea\IntelliJ IDEA 2017.3.3\workspace\bbmall-parent\bbmall-basic-parent\basic-util\src\main\java\cn\itsource\bbmall\util" />
-      <recent name="G:\software\idea\IntelliJ IDEA 2017.3.3\workspace\bbmall-parent\bbmall-basic-parent\basic-genarator\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -605,7 +636,7 @@
       <workItem from="1558090397102" duration="3356000" />
       <workItem from="1558167889050" duration="150000" />
       <workItem from="1558193251293" duration="239000" />
-      <workItem from="1558193535606" duration="5285000" />
+      <workItem from="1558193535606" duration="5428000" />
     </task>
     <task id="LOCAL-00001" summary="代码生成器和商品模块">
       <created>1558198783105</created>
@@ -614,11 +645,18 @@
       <option name="project" value="LOCAL" />
       <updated>1558198783105</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="代码生成器和商品模块">
+      <created>1558198848843</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1558198848843</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42374000" />
+    <option name="totallyTimeSpent" value="42517000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -630,7 +668,7 @@
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -712,35 +750,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bbmall-zuul-gateway/src/main/java/cn/itsource/bbmall/ZuulGatewayApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bbmall-plat-parent/plat-service/src/main/java/cn/itsource/bbmall/controller/LoginController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="23" column="38" lean-forward="false" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bbmall-plat-parent/plat-service/src/main/java/cn/itsource/bbmall/service/impl/EmployeeServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bbmall-plat-parent/plat-service/src/main/java/cn/itsource/bbmall/mapper/EmployeeMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bbmall-plat-parent/plat-service/src/main/resources/bootstrap.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -1099,6 +1108,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/66be7f71-f11f-41a5-aa8f-54a4b8d9f94f/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bbmall-product-parent/product-service/src/main/resources/cn.itsource.bbmall.mapper/BrandMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="36" column="29" lean-forward="false" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+          <folding>
+            <marker date="1558198949564" expanded="true" signature="1825:1928" ph="SELECT b.*,p... t_brand" />
+            <marker date="1558198949564" expanded="true" signature="2041:2174" ph="SELECT b.*,p... t_brand" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/bbmall-product-parent/product-service/src/main/java/cn/itsource/bbmall/config/MybatisPlusConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
@@ -1108,6 +1136,22 @@
             <element signature="e#456#457#0" expanded="true" />
             <element signature="e#506#507#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bbmall-product-parent/product-service/src/main/resources/cn.itsource.bbmall.mapper/ProductMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="5" column="58" lean-forward="false" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bbmall-product-parent/product-service/src/main/resources/cn.itsource.bbmall.mapper/ProductTypeMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="5" column="58" lean-forward="false" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
+          <folding />
         </state>
       </provider>
     </entry>
