@@ -11,6 +11,7 @@ import org.springframework.web.filter.CorsFilter;
  * @version V1.0
  * @className CrossOrigin
  * @date 2019/5/16
+ * 解决跨域问题
  */
 @Configuration
 public class CrossOrigin {

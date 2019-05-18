@@ -12,6 +12,7 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
  */
 @SpringBootApplication
 @EnableEurekaClient
+//@MapperScan(basePackages = "cn.itsource.bbmall.mapper")
 public class PlatApplication {
     public static void main(String[] args) {
         SpringApplication.run(PlatApplication.class,args);

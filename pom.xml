@@ -14,6 +14,7 @@
         <module>bbmall-basic-parent</module>
         <module>bbmall-plat-parent</module>
         <module>bbmall-config-server</module>
+        <module>bbmall-product-parent</module>
     </modules>
 
 
