@@ -2,87 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="adc184c9-0178-497c-b734-1a00b6b08a98" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_7_11.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_9_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_15_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_0_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_0_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_0_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_2_0_2_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_0_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_5_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-basic-parent/basic-core/basic-core.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-basic-parent/basic-core/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-basic-parent/basic-core/src/main/java/cn/itsource/bbmall/query/BaseQuery.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-basic-parent/basic-generator/basic-generator.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-basic-parent/basic-generator/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-basic-parent/basic-generator/src/main/resources/templates/controller.java.vm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-basic-parent/basic-generator/src/main/resources/templates/query.java.vm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-basic-parent/basic-util/src/main/java/cn/itsource/bbmall/util/BitStatesUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-basic-parent/basic-util/src/main/java/cn/itsource/bbmall/util/ClassUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-basic-parent/basic-util/src/main/java/cn/itsource/bbmall/util/CodeGenerateUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-basic-parent/basic-util/src/main/java/cn/itsource/bbmall/util/GlobalSetting.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-basic-parent/basic-util/src/main/java/cn/itsource/bbmall/util/LetterUtil.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-basic-parent/basic-util/src/main/java/cn/itsource/bbmall/util/ProductStateConsts.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-basic-parent/basic-util/src/main/java/cn/itsource/bbmall/util/PropertiesHelper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-basic-parent/basic-util/src/main/java/cn/itsource/bbmall/util/StrUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-basic-parent/basic-util/src/main/java/cn/itsource/bbmall/util/encrypt/DES.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-basic-parent/basic-util/src/main/java/cn/itsource/bbmall/util/encrypt/MD5.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-product-parent/bbmall-product-parent.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-product-parent/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-product-parent/product-interface/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-product-parent/product-interface/product-interface.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-product-parent/product-interface/src/main/java/cn/itsource/bbmall/domain/Brand.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-product-parent/product-interface/src/main/java/cn/itsource/bbmall/domain/Product.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-product-parent/product-interface/src/main/java/cn/itsource/bbmall/domain/ProductType.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-product-parent/product-service/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-product-parent/product-service/product-service.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-product-parent/product-service/src/main/java/cn/itsource/bbmall/ProductServiceApplication.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-product-parent/product-service/src/main/java/cn/itsource/bbmall/config/MybatisPlusConfig.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-product-parent/product-service/src/main/java/cn/itsource/bbmall/config/Swagger2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-product-parent/product-service/src/main/java/cn/itsource/bbmall/controller/BrandController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-product-parent/product-service/src/main/java/cn/itsource/bbmall/controller/ProductController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-product-parent/product-service/src/main/java/cn/itsource/bbmall/controller/ProductTypeController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-product-parent/product-service/src/main/java/cn/itsource/bbmall/mapper/BrandMapper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-product-parent/product-service/src/main/java/cn/itsource/bbmall/mapper/ProductMapper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-product-parent/product-service/src/main/java/cn/itsource/bbmall/mapper/ProductTypeMapper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-product-parent/product-service/src/main/java/cn/itsource/bbmall/service/IBrandService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-product-parent/product-service/src/main/java/cn/itsource/bbmall/service/IProductService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-product-parent/product-service/src/main/java/cn/itsource/bbmall/service/IProductTypeService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-product-parent/product-service/src/main/java/cn/itsource/bbmall/service/impl/BrandServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-product-parent/product-service/src/main/java/cn/itsource/bbmall/service/impl/ProductServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-product-parent/product-service/src/main/java/cn/itsource/bbmall/service/impl/ProductTypeServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bbmall-product-parent/product-service/src/main/resources/bootstrap.yml" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_generator_3_1_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_generate_3_1_1.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/bbmall-basic-parent/pom.xml" afterPath="$PROJECT_DIR$/bbmall-basic-parent/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/bbmall-plat-parent/plat-interface/target/classes/cn/itsource/bbmall/domain/Employee.class" afterPath="$PROJECT_DIR$/bbmall-plat-parent/plat-interface/target/classes/cn/itsource/bbmall/domain/Employee.class" />
-      <change beforePath="$PROJECT_DIR$/bbmall-plat-parent/plat-service/plat-service.iml" afterPath="$PROJECT_DIR$/bbmall-plat-parent/plat-service/plat-service.iml" />
-      <change beforePath="$PROJECT_DIR$/bbmall-plat-parent/plat-service/pom.xml" afterPath="$PROJECT_DIR$/bbmall-plat-parent/plat-service/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/bbmall-plat-parent/plat-service/src/main/java/cn/itsource/bbmall/PlatApplication.java" afterPath="$PROJECT_DIR$/bbmall-plat-parent/plat-service/src/main/java/cn/itsource/bbmall/PlatApplication.java" />
-      <change beforePath="$PROJECT_DIR$/bbmall-plat-parent/plat-service/target/classes/cn/itsource/bbmall/PlatApplication.class" afterPath="$PROJECT_DIR$/bbmall-plat-parent/plat-service/target/classes/cn/itsource/bbmall/PlatApplication.class" />
-      <change beforePath="$PROJECT_DIR$/bbmall-plat-parent/plat-service/target/classes/cn/itsource/bbmall/controller/LoginController.class" afterPath="$PROJECT_DIR$/bbmall-plat-parent/plat-service/target/classes/cn/itsource/bbmall/controller/LoginController.class" />
-      <change beforePath="$PROJECT_DIR$/bbmall-zuul-gateway/src/main/java/cn/itsource/bbmall/config/CrossOrigin.java" afterPath="$PROJECT_DIR$/bbmall-zuul-gateway/src/main/java/cn/itsource/bbmall/config/CrossOrigin.java" />
-      <change beforePath="$PROJECT_DIR$/bbmall-zuul-gateway/src/main/java/cn/itsource/bbmall/config/DocumentationConfig.java" afterPath="$PROJECT_DIR$/bbmall-zuul-gateway/src/main/java/cn/itsource/bbmall/config/DocumentationConfig.java" />
-      <change beforePath="$PROJECT_DIR$/bbmall-zuul-gateway/target/classes/cn/itsource/bbmall/config/CrossOrigin.class" afterPath="$PROJECT_DIR$/bbmall-zuul-gateway/target/classes/cn/itsource/bbmall/config/CrossOrigin.class" />
-      <change beforePath="$PROJECT_DIR$/bbmall-zuul-gateway/target/classes/cn/itsource/bbmall/config/DocumentationConfig.class" afterPath="$PROJECT_DIR$/bbmall-zuul-gateway/target/classes/cn/itsource/bbmall/config/DocumentationConfig.class" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/bbmall-zuul-gateway/target/" />
     <ignored path="$PROJECT_DIR$/bbmall-config-server/target/" />
@@ -684,12 +605,20 @@
       <workItem from="1558090397102" duration="3356000" />
       <workItem from="1558167889050" duration="150000" />
       <workItem from="1558193251293" duration="239000" />
-      <workItem from="1558193535606" duration="5145000" />
+      <workItem from="1558193535606" duration="5285000" />
     </task>
+    <task id="LOCAL-00001" summary="代码生成器和商品模块">
+      <created>1558198783105</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558198783105</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42234000" />
+    <option name="totallyTimeSpent" value="42374000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -771,6 +700,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="代码生成器和商品模块" />
+    <option name="LAST_COMMIT_MESSAGE" value="代码生成器和商品模块" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
